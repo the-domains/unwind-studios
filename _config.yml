@@ -1,7 +1,7 @@
 name: Unwind Studios
 favicon: null
-layout_spectrum: 0.20780773391015828
-typography_spectrum: 0.581704584416002
+layout_spectrum: 1
+typography_spectrum: 0.26743
 title: Unwind Studios
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.02806088817305863
-  lightness: 0.8231960267294198
+    - '#264673'
+    - '#9ea1a3'
+    - '#d1d3d4'
+    - '#5684a9'
+    - '#20a2dc'
+  brandStrength: 0
+  lightness: 0.8125
   saturation: 0.9638859631959349
-  rhythmicContrast: 0.026967059588059783
+  rhythmicContrast: 0
 purpose: []
